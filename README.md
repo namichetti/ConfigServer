@@ -1,1 +1,1 @@
-# GlobalLogic
+Example of config-server
